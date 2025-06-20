@@ -1,0 +1,54 @@
+[
+  {
+    "id": 0,
+    "name": "All News"
+  },
+  {
+    "id": 1,
+    "name": "Breaking News"
+  },
+  {
+    "id": 2,
+    "name": "Regular News"
+  },
+  {
+    "id": 3,
+    "name": "International News"
+  },
+  {
+    "id": 4,
+    "name": "Health"
+  },
+  {
+    "id": 5,
+    "name": "Sports"
+  },
+  {
+    "id": 6,
+    "name": "Entertainment"
+  },
+  {
+    "id": 7,
+    "name": "Science"
+  },
+  {
+    "id": 8,
+    "name": "Politics"
+  },
+  {
+    "id": 9,
+    "name": "Education"
+  },
+  {
+    "id": 10,
+    "name": "Lifestyle"
+  },
+    {
+    "id": 11,
+    "name": "Culture"
+  },
+    {
+    "id": 12,
+    "name": "Arts"
+  }
+]
