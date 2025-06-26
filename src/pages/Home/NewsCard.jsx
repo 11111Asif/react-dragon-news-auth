@@ -8,7 +8,7 @@ const NewsCard = ({ news }) => {
     const { title, thumbnail_url, details, id, } = news;
     return (
         <div className="">
-            <div className="navbar bg-base-100 border rounded-b-lg">
+            <div className="navbar bg-base-100 border">
                 <div className="navbar-start">
                     <div className="flex">
                         <div tabIndex={0} role="button" className="btn btn-ghost btn-circle avatar">

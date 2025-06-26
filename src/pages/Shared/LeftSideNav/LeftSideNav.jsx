@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+import SimpleCard from "./SimpleCard";
 
 
 const LeftSideNav = () => {
@@ -22,6 +23,8 @@ const LeftSideNav = () => {
                             {category.name}
                             </Link>)
                 }
+
+                <SimpleCard></SimpleCard>
             
         </div>
     );

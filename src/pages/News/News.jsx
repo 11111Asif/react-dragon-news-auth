@@ -32,7 +32,7 @@ const News = () => {
                         </div>
                     </div>
                 </div>
-                <div className="md:col-span-2 border">
+                <div className="md:col-span-2 ">
                     <RightSideNav></RightSideNav>
                 </div>
             </div>
